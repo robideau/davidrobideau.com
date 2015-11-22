@@ -1,0 +1,20 @@
+#jumbotron {
+	width: 100%;
+	height: 20%;
+	font-size: 4vh;
+	font-family: 'VT323';
+	text-align: center;
+	vertical-align: middle;
+	line-height: 20%;
+}
+
+#navigation {
+	width: 100%;
+	height: 50%;
+	font-family: 'VT323';
+}
+
+#legal {
+	font-family: 'VT323';
+	color: #dddddd;
+}
