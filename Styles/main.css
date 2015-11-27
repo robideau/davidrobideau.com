@@ -1,20 +1,65 @@
 #jumbotron {
 	width: 100%;
 	height: 20%;
-	font-size: 4vh;
-	font-family: 'VT323';
+	font-family: 'Unibody 8 Pro';
 	text-align: center;
 	vertical-align: middle;
 	line-height: 20%;
 }
 
-#navigation {
+#jumbotron h1 {
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	font-size: 4vh;
+}
+
+#jumbotron h2 {
+	font-size: 2.5vh;
+}
+
+#sprites {
 	width: 100%;
 	height: 50%;
-	font-family: 'VT323';
+}
+
+#sprites img {
+	display: inline-block;
+	padding-right: 6%;
+}
+
+#selector {
+	font-family: 'Unibody 8 Pro';
+	text-align: center;
+	vertical-align: center;
+	padding-top: 5%;
+}
+
+#sprites #contact {
+	padding-left: 10%;
+	padding-bottom: 2%;
+}
+
+
+#navigation {
+	margin-left: -25%;
+	height: 10%;
+	width: 100%;
+	padding-top: 10%;
+	font-family: 'Unibody 8 Pro';
+	font-size: 1vh;
 }
 
 #legal {
-	font-family: 'VT323';
+	text-align: right;
+	font-family: 'Unibody 8 Pro';
+	font-size: 1vh;
 	color: #dddddd;
+}
+
+footer{
+ position:fixed;
+ bottom:0;
+ left:0;
+ padding-left: 0.5%;
+ padding-bottom: 0.5%;
 }
