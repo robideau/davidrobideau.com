@@ -3,7 +3,7 @@ var main = function() {
 	$('#about').mouseover(function() {
         var $this = $('#selector-text');
         $this.data('initialText', $this.text());
-        $this.text("About");
+        $this.text("About Me");
     });
     $('#about').mouseout(function() {
     	var $this = $('#selector-text');
