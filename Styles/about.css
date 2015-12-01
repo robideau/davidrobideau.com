@@ -108,6 +108,14 @@ body {
 	padding-top: 2%;
 }
 
+#project {
+	position: relative;
+	font-family: 'Unibody 8 Pro';
+	width: 40%;
+	padding-left: 30%;
+	padding-top: -10%;
+}
+
 #navigation {
 	margin-left: -74.5%;
 	height: 10%;

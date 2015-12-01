@@ -31,6 +31,14 @@ body {
 	padding-right: 6%;
 }
 
+#project-sprites {
+	padding-left: 10%;
+}
+
+#project-sprites img {
+	padding: 5%;
+}
+
 #selector {
 	font-family: 'Unibody 8 Pro';
 	text-align: center;
