@@ -5,14 +5,14 @@ var main = function() {
 	$('#navigation').click(function() {
         if (navExpanded === false) {
             $('#navigation').animate({
-            'marginLeft' : "+=74.5%" //moves right
+            'marginLeft' : "+=74.5%"
             });
             navExpanded = true;
             $('#navigation-text').text("Navigation <")
         }
         else {
             $('#navigation').animate({
-            'marginLeft' : "-=74.5%" //moves right
+            'marginLeft' : "-=74.5%"
             });
             navExpanded = false;
             $('#navigation-text').text("Navigation >")
