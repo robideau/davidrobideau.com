@@ -37,10 +37,19 @@ body {
 }
 
 #project-sprites {
-	padding-left: 10%;
+	padding-left: 23%;
 }
 
 #project-sprites img {
+	padding-right: 15%;
+	padding-top: 5%;
+}
+
+#essay-sprites {
+	padding-left: 15%;
+}
+
+#essay-sprites img {
 	padding: 5%;
 }
 
